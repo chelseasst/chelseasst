@@ -2,10 +2,15 @@
 I'm exploring the field of Software Developing for more than 2 years already. And my strong focus is Front-End Development, and as of now I have mastered Angular. And I have worked on various projects both building the Front-End and the decent Back-End part. Most projects are my own ideas, design and code. While learning, and developing I have't used AI agents for generating code.
 I am currently seeking for the company, which will allow me to **grow** and **contribute** to real world problems.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Flash Cards Application with Vanilla JS**
 - 🌱 I’m currently learning **How to write clean code**
+
+
+## 📈 Portfolio Link
+[My Portfolio](https://ipad-portfolio.vercel.app/home)
+- click and hover everywhere
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chelsi-todorova-24ab05234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chelsea.todorova@gmail.com) 
