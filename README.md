@@ -8,7 +8,7 @@ I am currently seeking for the company, which will allow me to **grow** and **co
 
 
 ## 📈 Portfolio Link
-[My Portfolio](https://ipad-portfolio.vercel.app/home)
+[My Portfolio 🙋🏽‍♀️](https://ipad-portfolio.vercel.app/home)
 - click and hover everywhere
 
 
